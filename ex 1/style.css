@@ -1,0 +1,64 @@
+.container{
+    background-color: #468df1 !important;
+}
+.card1 {
+    background-color: #468df1;
+    border: 10px solid #f2f2f2;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    font-family: 'roboto';
+
+}
+
+.ex2 {
+    font-size: 15px;
+    text-align: left;
+    color: #dee6f6;
+    font-family: 'roboto';
+
+}
+
+.ex22 {
+    color: #dee6f6;
+    font-size: 50px;
+}
+
+small {
+    color: #dee6f6;
+}
+
+table {
+    color: #dee6f6;
+}
+
+th {
+    font-family: 'roboto' !important;
+}
+
+.tt {
+    padding-left: 50px;
+    text-align: right !important;
+    }
+
+.r {
+    text-align: right;
+    text-transform: uppercase;
+    color: #dee6f6;
+    font-family: 'roboto';
+    font-weight: lighter;
+
+}
+
+td {
+    text-align:right 0.1mm solid #dee6f6;
+}
+
+hr {
+    color:#dee6f6;
+}
+
+.far {
+    color: white;
+}
